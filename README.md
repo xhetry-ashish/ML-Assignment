@@ -26,20 +26,8 @@ The notebook uses ESRI Shapefile glacier inventories for four years:
 
 Each inventory includes glacier geometry and attributes such as area, elevation, slope, aspect, latitude, longitude, mountain range, and basin. A complete shapefile normally consists of related files such as `.shp`, `.dbf`, `.shx`, `.prj`, and `.cpg`; these files should remain together in the same folder.
 
-The source data are expected in the following structure:
 
-```text
-ASSIGNMENT/
-├── HKH Glacier 1990/data/hkh_glacier_1990.shp
-├── HKH Glacier 2000/data/hkh_glacier_2000.shp
-├── HKH Glacier 2010/data/hkh_glacier_2010.shp
-├── HKH Glacier 2020/data/hkh_glacier_2020.shp
-└── glacier_ml_project/
-    ├── glacier_ml_assignment.ipynb
-    └── README.md
-```
-
-> The glacier datasets may not be included in the GitHub repository because of their size or distribution conditions. Obtain the inventories separately and preserve the folder structure above.
+> The glacier datasets may not be included in the GitHub repository because of their size or distribution conditions. Obtain the inventories separately from ICIMOD official site.
 
 ## How the notebook works
 
