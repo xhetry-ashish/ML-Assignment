@@ -2,8 +2,7 @@
 
 This repository contains a Jupyter Notebook implementation of an explainable machine learning framework for predicting glacier shrinkage in the Hindu Kush Himalaya (HKH). It uses glacier inventories from 1990, 2000, 2010, and 2020 to classify each matched glacier over the following ten years as **Stable**, **Shrinking**, or **Rapidly shrinking**.
 
-The main presentation notebook is [`glacier_ml_assignment.ipynb`](glacier_ml_assignment.ipynb). It contains the complete workflow and displays its tables and plots directly inside the notebook.
-
+The main presentation notebook is [`glacier_ml_assignment.ipynb`](glacier_ml_assignment.ipynb). 
 ## Project objective
 
 The project aims to:
